@@ -1,0 +1,46 @@
+[INFO ] 2023-09-10 13:28:34.642 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Powered by [1mSHAFT v.SHAFT Engine v7.1.20230309[22m                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-10 13:28:36.900 [main] ReportManager - Loaded OpenCV "opencv_java470".
+[INFO ] 2023-09-10 13:28:36.900 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-09-10 13:28:37.170 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-09-10 13:28:38.154 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2023-09-10 13:28:38.620 [main] Utils - [TestNG] Running:
+  C:\Users\PC_2023\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+[INFO ] 2023-09-10 13:28:38.671 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-10 13:28:38.979 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-09-10 13:28:38.992 [main] ReportManager - Initializing Properties...
+[INFO ] 2023-09-10 13:28:39.295 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                            Test Method: 'new_pro.f'                                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-10 13:28:39.367 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2023-09-10 13:28:39.394 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: D:\testing\Shaft\new test\n..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2023-09-10 13:28:39.396 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2023-09-10 13:28:39.397 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[INFO ] 2023-09-10 13:28:40.557 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: f'
+[INFO ] 2023-09-10 13:28:40.558 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Finished Execution of Test Method: 'new_pro.f'                                                 
+                                                              Test Status: 'Failed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-10 13:28:40.864 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2023-09-10 13:28:40.870 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2023-09-10 13:28:40.874 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-09-10 13:28:40.875 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
